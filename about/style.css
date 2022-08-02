@@ -1,0 +1,132 @@
+.mainbody{
+    width: 1340px;
+    height: 830px;
+    background-color: #d5e1df;
+}
+
+/* footer */
+.footer{
+    background-color: #1e1c27;
+    color: white;
+    width: 1340px;
+    height: 500px;
+}
+/* uppar box */
+.ub{
+    position: relative;
+    width: 1135px;
+    height: 400px;
+    margin-left: 100px;
+}
+
+.f{ 
+    position: absolute;
+    width: 283.75px;
+    height: 200px;
+    margin-top: 100px;
+}
+.firstf{
+    width: 283.75px;
+    height: 50px;
+    font-size: 30px;
+}
+.firsts{
+    /* width: 283.75px; */
+    width: 260px;
+    height: 150px;
+    font-size: 20px;
+    color: grey;
+    line-height: 1.4;
+}
+/* .f box is over */
+
+.s{
+    position: absolute;
+    width: 283.75px;
+    height: 200px;
+    margin-top: 100px;
+    left: 283.75px;
+}
+.secondf{
+    width: 283.75px;
+    height: 50px;
+    font-size: 30px;
+}
+.seconds{
+    width: 283.75px;
+    height: 150px;
+    font-size: 19px;
+    color: grey;
+    line-height: 2;
+}
+/* .tables{
+    width: 100px;
+    height: 10px;
+} */
+/* .s box is over */
+.t{
+    position: absolute;
+    width: 283.75px;
+    height: 200px;
+    margin-top: 100px;
+    left: 567.5px;
+}
+.thirdf{
+    width: 283.75px;
+    height: 50px;
+    font-size: 30px;
+}
+.thirds{
+    width: 260px;
+    height: 150px;
+    font-size: 21px;
+    color: grey;
+    line-height: 1.4;
+}
+/* .t box is over */
+
+.four{
+    position: absolute;
+    width: 283.75px;
+    height: 200px;
+    margin-top: 100px;
+    left: 851.25px;
+}
+.fourf{
+    width: 283.75px;
+    height: 50px;
+    font-size: 30px;
+}
+.fours{
+    width: 283.75px;
+    height: 150px;
+    font-size: 19px;
+    color: grey;
+}
+/* .four box is over */
+/* footer last part start */
+.footerlast{
+    position: relative;
+    width: 1340;
+    height: 100px;
+}
+.footerlastcenter{
+    position: absolute;
+    width: 1135px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 10px;
+    top: 15px;
+}
+.centerf{
+    width: 1135px;
+    height: 25px;
+    color: grey;
+    font-size: 20px;
+}
+.centers{
+    width: 1135px;
+    height: 25px;
+}
+
+/* footer last part end */
